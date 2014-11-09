@@ -1,0 +1,3 @@
+#! /bin/bash
+
+node flags.js $1 $2 $3
